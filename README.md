@@ -1,2 +1,3 @@
-# tp-conflicto-grupo-6
-Trabajo Práctico N°1 - Seminario de Profundización.
+# Trabajo Práctico de Git
+Este archivo será modificado por todos los integrantes del
+grupo.
