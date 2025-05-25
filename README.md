@@ -1,3 +1,2 @@
-# Trabajo Práctico de Git
-Este archivo será modificado por todos los integrantes del
-grupo.
+#Trabajo Práctico de Git
+Este archivo fue editado por Juan Manuel Bonomo para generar un conflicto.
