@@ -1,2 +1,2 @@
 #Trabajo Práctico de Git
-Este archivo fue editado por Michelle Borquez en modificacion-B
+Este archivo fue editado por Ernesto en modificacion-ramirez
